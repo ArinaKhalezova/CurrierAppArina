@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrierApp", "CurrierApp\CurrierApp.csproj", "{02097F31-30EC-475C-9BDD-28AF28378F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02097F31-30EC-475C-9BDD-28AF28378F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02097F31-30EC-475C-9BDD-28AF28378F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02097F31-30EC-475C-9BDD-28AF28378F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02097F31-30EC-475C-9BDD-28AF28378F84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B971660E-BF45-4A0D-B19B-29807AAB109C}
+	EndGlobalSection
+EndGlobal

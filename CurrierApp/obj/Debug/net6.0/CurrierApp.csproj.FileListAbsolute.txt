@@ -1,0 +1,15 @@
+D:\CurrierApp\CurrierApp\bin\Debug\net6.0\CurrierApp.exe
+D:\CurrierApp\CurrierApp\bin\Debug\net6.0\CurrierApp.deps.json
+D:\CurrierApp\CurrierApp\bin\Debug\net6.0\CurrierApp.runtimeconfig.json
+D:\CurrierApp\CurrierApp\bin\Debug\net6.0\CurrierApp.dll
+D:\CurrierApp\CurrierApp\bin\Debug\net6.0\CurrierApp.pdb
+D:\CurrierApp\CurrierApp\obj\Debug\net6.0\CurrierApp.csproj.AssemblyReference.cache
+D:\CurrierApp\CurrierApp\obj\Debug\net6.0\CurrierApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CurrierApp\CurrierApp\obj\Debug\net6.0\CurrierApp.AssemblyInfoInputs.cache
+D:\CurrierApp\CurrierApp\obj\Debug\net6.0\CurrierApp.AssemblyInfo.cs
+D:\CurrierApp\CurrierApp\obj\Debug\net6.0\CurrierApp.csproj.CoreCompileInputs.cache
+D:\CurrierApp\CurrierApp\obj\Debug\net6.0\CurrierApp.dll
+D:\CurrierApp\CurrierApp\obj\Debug\net6.0\refint\CurrierApp.dll
+D:\CurrierApp\CurrierApp\obj\Debug\net6.0\CurrierApp.pdb
+D:\CurrierApp\CurrierApp\obj\Debug\net6.0\CurrierApp.genruntimeconfig.cache
+D:\CurrierApp\CurrierApp\obj\Debug\net6.0\ref\CurrierApp.dll
